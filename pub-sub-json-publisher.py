@@ -1,4 +1,4 @@
-# To test the messages publishing to a topic
+# To test the messages publishing to a topic directly from the python IDE
 # test
 from google.cloud import pubsub_v1
 import json
